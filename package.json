@@ -1,0 +1,22 @@
+{
+  "name": "langchain-powered-ai-chatbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/community": "^0.2.13",
+    "@langchain/core": "^0.2.9",
+    "@langchain/google-genai": "^0.0.21",
+    "@supabase/supabase-js": "^2.43.5",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.6"
+  }
+}
