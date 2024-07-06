@@ -1,6 +1,6 @@
 # Langchain Powered AI Chatbot (Scrimba Tutorial)
 
-An LLM powered chatbot that can answer questions on based on your specific data.
+An LLM powered chatbot that can answer questions based on your specific data.
 This project is based on the [Scrimba Tutorial](https://v2.scrimba.com/the-official-langchainjs-course-c02t) by [Tom Chant](https://v2.scrimba.com/@DoubleNemesis).
 
 #### App Flow
