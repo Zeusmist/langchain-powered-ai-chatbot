@@ -16,7 +16,7 @@ This project is based on the [Scrimba Tutorial](https://v2.scrimba.com/the-offic
 ### Prerequisites:
 
 - Supabase Account
-- Google AI Platform Account (This project uses Google AI not OpenAI)
+- Google AI Platform Account **(This project uses Google AI not OpenAI)**
 - Run the query found in `match_documents.sql` in your Supabase database
 
 ### Install the dependencies:
